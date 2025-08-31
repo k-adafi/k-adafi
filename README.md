@@ -1,5 +1,5 @@
 - 👋 Hi, I’m KADAFI Ben 
-- 👀 I’m a software engineer student
+- 👀 I’m students in Imaging and Interactions at the University of Toamasina / Full Stack Software Developer
 - 🌱 I’m currently learning UX/UI design, open data, and modern web technologies
 - 💞️ I’m looking to collaborate on innovative web/mobile app projects
 - 📫 How to reach me: [e-mail: kadafiben196@gmail.com / phone number: +261 34 14 566 79]
